@@ -1,0 +1,18 @@
+1. npm i -g typescript
+2. npm --init
+3. tsc --init
+4. es6
+5. ./dist
+6. strict: true
+7. esModuleInterop: true
+8. sourceMap: true
+9. moduleResolution: node
+10. tsc
+11. node dist/app
+12. npm i tslint --save-dev
+13. npm i typescript --save-dev
+14. ./node_modules/.bin/tslint --init
+15. rules{
+    "no-console":false
+},
+16. tcs --watch
